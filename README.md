@@ -1,4 +1,11 @@
-#Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
+#Soundboard App
+
+Communicating with people can be hard enough, what makes it harder is when you are not speaking the same language. This Soundboard solves this issue by providing the tools to create highly competitive figurable sound boards
+
+## Sources
+Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
+https://github.com/coryhouse/pluralsight-redux-starter.git
+
 
 ## Get Started
 1. **Install [Node 6](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
